@@ -1,0 +1,7 @@
+d:\Users\User\Documents\Comp Sci\Programming\Full Stack Development\C#\Maze Navigation\MazeNavigation\MazeNavigation\bin\Debug\MazeNavigation.exe.config
+d:\Users\User\Documents\Comp Sci\Programming\Full Stack Development\C#\Maze Navigation\MazeNavigation\MazeNavigation\bin\Debug\MazeNavigation.exe
+d:\Users\User\Documents\Comp Sci\Programming\Full Stack Development\C#\Maze Navigation\MazeNavigation\MazeNavigation\bin\Debug\MazeNavigation.pdb
+d:\Users\User\Documents\Comp Sci\Programming\Full Stack Development\C#\Maze Navigation\MazeNavigation\MazeNavigation\obj\Debug\MazeNavigation.csproj.AssemblyReference.cache
+d:\Users\User\Documents\Comp Sci\Programming\Full Stack Development\C#\Maze Navigation\MazeNavigation\MazeNavigation\obj\Debug\MazeNavigation.csproj.CoreCompileInputs.cache
+d:\Users\User\Documents\Comp Sci\Programming\Full Stack Development\C#\Maze Navigation\MazeNavigation\MazeNavigation\obj\Debug\MazeNavigation.exe
+d:\Users\User\Documents\Comp Sci\Programming\Full Stack Development\C#\Maze Navigation\MazeNavigation\MazeNavigation\obj\Debug\MazeNavigation.pdb
