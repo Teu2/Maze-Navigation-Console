@@ -46,3 +46,6 @@ All the lines below the goal states are wall configurations.
 (9,3,1,1)
 (8,4,2,1)
 ```
+
+# Program Demonstration
+![This is an image](Demonstration.PNG)
