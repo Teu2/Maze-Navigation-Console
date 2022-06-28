@@ -1,5 +1,5 @@
 # Maze-Navigation
-A simple console OOP maze navigation program made in C# using informed and uninformed search methods on a 2D matrix.
+A simple maze navigation console application made in C# using informed and uninformed search methods on a 2D matrix.
 The program returns the shortest possible path and the directions taken to get from the initial state to the goal state.
 
 ###### Uninformed Searches
