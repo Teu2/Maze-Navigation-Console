@@ -42,10 +42,7 @@ namespace MazeNavigation
             {
                 adj.Add(new List<int>());
             }
-
-            //var t = PairToIndex(startPair, m);
-            //var tt = IndexToPair(t, m);
-            //Console.WriteLine($"=============={t} ({tt.Row}, {tt.Column})");
+            
             visited[startPair.Row, startPair.Column] = true;
             while (cells.Count != 0)
             {
@@ -59,7 +56,6 @@ namespace MazeNavigation
                     if (isValid2(grid, adjy, adjx, gridWalls))
                     {
                         var neighbour = new Pair(adjy, adjx); // uses the row and column of the cell queue to create a neighbour
-                        //Console.WriteLine($"{neighbour.Row}, {neighbour.Column} direction = {neighbour.Message}");
 
                         if (isValid(grid, visited, adjy, adjx, gridWalls))
                         {
